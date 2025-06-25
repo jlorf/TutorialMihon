@@ -1,3 +1,9 @@
+[Ir a Español](#español) | [Ves a Català](#català)
+
+---
+
+# Español
+
 # Tutorial de Instalación de Mihon 📱
 
 ## ¿Qué es Mihon?
@@ -279,3 +285,289 @@ Ahora tienes Mihon instalado y configurado correctamente. ¡Disfruta de tu exper
 *Tutorial creado en Junio 2025 - Versión actualizada para Mihon v0.18.0+*
 
 **¿Te ha sido útil este tutorial? ¡Compártelo con otros amantes del manga!** 🚀
+
+---
+
+# Català
+
+# Tutorial d'Instal·lació de Mihon 📱
+
+## Què és Mihon?
+
+**Mihon** és una aplicació gratuïta i de codi obert per a Android que permet llegir manga, manhwa i manhua de manera còmoda i personalitzable. És el successor de la popular aplicació Tachiyomi i ofereix una àmplia gamma de fonts i funcionalitats.
+
+### ✨ Característiques principals:
+- **Gratuït i sense anuncis**
+- **Codi obert** (disponible a GitHub)
+- **Múltiples fonts** de manga
+- **Interfície personalitzable**
+- **Descarrega offline**
+- **Sincronització amb serveis com MyAnimeList**
+- **Mode fosc i clar**
+
+---
+
+## 🚨 Advertiments Importants
+
+> ⚠️ **ATENCIÓ**: Mihon NO està disponible a Google Play Store per les polítiques de la botiga.
+
+> ⚠️ **SEGURETAT**: Només descarrega Mihon des de fonts oficials per evitar malware.
+
+> ⚠️ **LEGALITAT**: Assegura't de complir amb les lleis de copyright del teu país en utilitzar aquesta aplicació.
+
+---
+
+## 📋 Requisits previs
+
+- **Android 6.0** (API nivell 23) o superior
+- **Espai d'emmagatzematge**: Almenys 50 MB lliures
+- **Connexió a internet** per descarregar i utilitzar l'aplicació
+
+---
+
+## 🔧 Preparació del dispositiu
+
+### Pas 1: Habilitar "Fonts desconegudes"
+
+1. Ves a **Configuració** del teu dispositiu Android
+2. Busca **Seguretat** o **Privacitat i Seguretat**
+3. Troba l'opció **Fonts desconegudes** o **Instal·lar aplicacions desconegudes**
+4. **Activa** l'opció per permetre instal·lacions des de fonts externes
+
+> 💡 **Nota**: A Android 8.0+, potser hauràs d'habilitar aquesta opció específicament per al teu navegador o gestor d'arxius.
+
+---
+
+## 📥 Descàrrega de Mihon
+
+### Opció 1: Lloc web oficial (Recomanat)
+
+1. Visita el lloc oficial: **[mihon.app](https://mihon.app)**
+2. Fes clic al botó **"Download"**
+3. Descarrega l'última versió estable (v0.18.0 o superior)
+
+### Opció 2: GitHub Releases
+
+1. Ves a: **[GitHub - Mihon Releases](https://github.com/mihonapp/mihon/releases)**
+2. Descarrega l'arxiu **`mihon-vX.X.X.apk`** més recent
+
+### Opció 3: Fonts alternatives de confiança
+
+- **F-Droid** (quan estigui disponible)
+- **APKMirror** (verifica la signatura digital)
+
+> ⚠️ **IMPORTANT**: Evita llocs web no oficials que puguin contenir versions modificades o malware.
+
+---
+
+## 🛠️ Instal·lació pas a pas
+
+### Pas 1: Localitzar l'arxiu APK
+
+1. Obre el teu **Gestor d'arxius** o l'app **Descàrregues**
+2. Busca l'arxiu `mihon-vX.X.X.apk` descarregat
+3. Normalment estarà a la carpeta **Download** o **Descàrregues**
+
+### Pas 2: Instal·lar l'aplicació
+
+1. **Toca** l'arxiu APK descarregat
+2. Si apareix un advertiment de seguretat, selecciona **"Instal·lar igualment"**
+3. Accepta els **permisos** necessaris:
+   - Accés a l'emmagatzematge
+   - Accés a la xarxa
+4. Espera que es completi la instal·lació
+5. Toca **"Obrir"** per iniciar Mihon
+
+---
+
+## 🎯 Configuració inicial
+
+### Primer inici
+
+1. **Obre Mihon** des del menú d'aplicacions
+2. Llegeix i accepta els **termes de servei**
+3. L'app mostrarà una pantalla de benvinguda
+
+### Configuració de fonts (Repos)
+
+Mihon funciona amb **extensions** que proporcionen accés a diferents fonts de manga:
+
+1. Ves a **Configuració** → **Extensions**
+2. Toca **"Afegeix repositori"** o **"Add repo"**
+3. Pots afegir repositoris oficials o de la comunitat
+
+#### Repositoris recomanats:
+
+```
+https://keiyoushi.github.io/extensions/
+```
+
+> 💡 **Consell**: Instal·la només les extensions dels idiomes que prefereixis per mantenir l'app organitzada.
+
+---
+
+## 🔧 Configuració avançada
+
+### Personalització de la interfície
+
+1. **Configuració** → **Aparença**
+   - Tema: Clar/Fosc/Auto
+   - Color d'accent
+   - Orientació de lectura
+
+### Configuració de descàrrega
+
+1. **Configuració** → **Descàrregues**
+   - Carpeta de descàrrega
+   - Format de descàrrega
+   - Límit simultani
+
+### Còpia de seguretat
+
+1. **Configuració** → **Còpia de seguretat**
+2. Crea una **còpia de seguretat** de la teva biblioteca i configuracions
+3. Desa-la en un lloc segur (Google Drive, etc.)
+
+---
+
+## 📚 Ús bàsic
+
+### Afegir manga a la teva biblioteca
+
+1. Toca **"Explora"** a la barra inferior
+2. Selecciona una **font/extensió**
+3. Busca el manga que t'interessi
+4. Toca el manga i selecciona **"Afegeix a la biblioteca"**
+
+### Llegir manga
+
+1. Ves a **"Biblioteca"**
+2. Toca el manga que vulguis llegir
+3. Selecciona el capítol
+4. Gaudeix de la lectura!
+
+### Descarregar per a lectura offline
+
+1. Obre un manga de la teva biblioteca
+2. Toca la **icona de descàrrega** al costat del capítol
+3. El capítol es descarregarà per a lectura offline
+
+---
+
+## 🛡️ Consells de seguretat i bones pràctiques
+
+### Seguretat
+
+- ✅ **Mantén** Mihon actualitzat a l'última versió
+- ✅ **Verifica** sempre la font de descàrrega
+- ✅ **Utilitza** un antivirus al teu dispositiu
+- ❌ **No descarreguis** de llocs web sospitosos
+
+### Rendiment
+
+- 🔋 **Optimitza** la configuració de descàrrega per estalviar bateria
+- 💾 **Neteja** regularment els capítols descarregats antics
+- 📶 **Utilitza WiFi** per a descàrregues grans
+
+### Legal i ètic
+
+- 📖 **Respecta** els drets d'autor
+- 💰 **Dona suport** als creadors comprant manga oficial quan sigui possible
+- 🌍 **Compleix** amb les lleis del teu país
+
+---
+
+## 🆘 Solució de problemes
+
+### Problema: L'aplicació no s'instal·la
+
+**Solució:**
+- Verifica que tinguis prou espai d'emmagatzematge
+- Assegura't que "Fonts desconegudes" estigui habilitat
+- Intenta reiniciar el dispositiu
+
+### Problema: No apareixen fonts/extensions
+
+**Solució:**
+- Verifica la teva connexió a internet
+- Afegeix repositoris manualment
+- Actualitza la llista d'extensions
+
+### Problema: Els manga no es carreguen
+
+**Solució:**
+- Canvia a una font/extensió diferent
+- Verifica la teva connexió a internet
+- Neteja la memòria cau de l'aplicació
+
+### Problema: L'aplicació es tanca inesperadament
+
+**Solució:**
+- Actualitza a la versió més recent
+- Reinicia el dispositiu
+- Informa de l'error a GitHub si persisteix
+
+---
+
+## 🔄 Actualització de Mihon
+
+### Mètode automàtic (recomanat)
+
+1. Ves a **Configuració** → **Quant a**
+2. Si hi ha una actualització disponible, apareixerà una notificació
+3. Toca **"Descarregar"** per actualitzar automàticament
+
+### Mètode manual
+
+1. Visita [mihon.app](https://mihon.app) periòdicament
+2. Descarrega la nova versió
+3. Instal·la sobre la versió anterior (es mantindran les teves dades)
+
+---
+
+## 📞 Suport i comunitat
+
+### Enllaços útils
+
+- **Lloc web oficial**: [mihon.app](https://mihon.app)
+- **GitHub**: [github.com/mihonapp/mihon](https://github.com/mihonapp/mihon)
+- **Discord**: Comunitat oficial de Mihon
+- **Reddit**: r/Mihon
+
+### Informar de problemes
+
+1. Ves a **GitHub Issues**: [github.com/mihonapp/mihon/issues](https://github.com/mihonapp/mihon/issues)
+2. Busca si el teu problema ja ha estat informat
+3. Si no, crea un **nou issue** amb detalls específics
+
+---
+
+## ⚖️ Consideracions legals
+
+> **EXEMPCIÓ DE RESPONSABILITAT**: Aquest tutorial és només per a fins educatius. Els usuaris són responsables de complir amb les lleis de copyright de la seva jurisdicció. L'ús d'aquesta aplicació per accedir a contingut amb drets d'autor pot no ser legal al teu país.
+
+### Recomanacions legals:
+
+- 📚 **Llegeix manga** de fonts que tinguin els drets de distribució
+- 💳 **Subscriu-te** a plataformes legals com Crunchyroll Manga, Viz, etc.
+- 🛒 **Compra** manga físic o digital per donar suport als creadors
+- 🌐 **Utilitza Mihon** principalment per a manga gratuït i de domini públic
+
+---
+
+## 🎉 Ja pots llegir!
+
+Ara tens Mihon instal·lat i configurat correctament. Gaudeix de la teva experiència llegint manga!
+
+### Pròxims passos recomanats:
+
+1. 🔍 **Explora** diferents fonts i troba els teus manga preferits
+2. 📱 **Personalitza** la interfície segons les teves preferències
+3. 💾 **Crea** còpies de seguretat regulars de la teva biblioteca
+4. 🤝 **Uneix-te** a la comunitat per obtenir consells i suport
+
+---
+
+*Tutorial creat al juny de 2025 - Versió actualitzada per a Mihon v0.18.0+*
+
+**T'ha estat útil aquest tutorial? Comparteix-lo amb altres amants del manga!** 🚀
